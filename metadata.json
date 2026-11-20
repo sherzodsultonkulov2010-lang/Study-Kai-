@@ -1,0 +1,6 @@
+{
+  "name": "Study Kai",
+  "description": "Global English (A1-C2) and Math (Grades 0-11) learning platform with audio dictionary, interactive tests, formulas, Desmos graphing calculator, chat, groups, news, and admin tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
